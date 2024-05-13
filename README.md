@@ -38,7 +38,7 @@
 
 **🛠️ Habilidades e Tecnologias:**
 
-**Linguagens de Programação: Python, JavaScript, TypeScript, HTML5 e CSS3**
+**Linguagens: Python, JavaScript, TypeScript, HTML5 e CSS3**
 
 **Frameworks e Bibliotecas: Angular e qualquer coisa que me ajude a criar coisas incríveis.**
 
@@ -46,7 +46,7 @@
 
 **🌟 Projetos Destacados:**
 
-**[Nome do Projeto] - Em Breve.**
+**Desafio Classificador de nível de Herói**
 
 **[Nome do Projeto] - Em Breve.**
 
@@ -62,6 +62,7 @@
 
 **📚 Aprendendo Atualmente:**
 
+**💻 AWS Re/Start - Escola da Nuvem**
 **💻 Desenvolvimento Frontend com Angular**
 
 **🤝 Colaboração e Feedback:**
