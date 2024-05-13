@@ -1,6 +1,6 @@
 ## Olá, eu sou o Renato Rodrigues, um entusiasta da tecnologia e apaixonado por programação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoDEV87&show_icons=true&theme=tokyonight) <img src="https://github.com/settings/replies/assets/138018178/069fa4ab-50a7-41b5-ad8e-4905dde442cd" alt="droidtocat" width="200" height="200">   ![GIF Divertido](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoDEV87&show_icons=true&theme=tokyonight) <img src="https://github.com/settings/replies/assets/138018178/069fa4ab-50a7-41b5-ad8e-4905dde442cd" alt="droidtocat" width="200" height="195">   ![GIF Divertido](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
