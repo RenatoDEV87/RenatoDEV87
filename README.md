@@ -38,7 +38,7 @@
 
 **🛠️ Habilidades e Tecnologias:**
 
-**Linguagens: Python, JavaScript, TypeScript, HTML5 e CSS3**
+**Linguagens: Python, JavaScript, HTML5 e CSS3**
 
 **Frameworks e Bibliotecas: Angular e qualquer coisa que me ajude a criar coisas incríveis.**
 
