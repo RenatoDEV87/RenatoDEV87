@@ -32,7 +32,7 @@
 
 **🎓 Graduando em Análise e Desenvolvimento de Sistemas.**
 
-**💼 Procurando Estágio em Programação.**
+**💼 Procurando Estágio em Programação e cloud computing.**
 
 **🌱 Educação Continuada: Acredito que a educação é um processo constante. Sempre estou atrás de novas habilidades e perspectivas.**
 
