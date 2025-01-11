@@ -31,50 +31,31 @@
 
 **🎓 Graduando em Análise e Desenvolvimento de Sistemas.**
 
-**💼 Procurando Estágio em Programação e cloud computing.**
+**💼 Procurando Estágio em Programação e Cloud Computing.**
 
-**🌱 Educação Continuada: Acredito que a educação é um processo constante. Sempre estou atrás de novas habilidades e perspectivas.**
+**🌱 Educação Continuada:** Sempre buscando novas habilidades e perspectivas.
 
 **🛠️ Habilidades e Tecnologias:**
 
-**Linguagens: Python, JavaScript, HTML5 e CSS3**
-
-**Frameworks e Bibliotecas: Angular e qualquer coisa que me ajude a criar coisas incríveis.**
-
-**Ferramentas: VS Code, Git, e uma xícara de café sempre à mão.**
-
-**🌟 Projetos Destacados:**
-
-**Desafio: Classificador de nível de Herói**
-
-**[Nome do Projeto] - Em Breve.**
-
-**[Nome do Projeto] - Em Breve.**
-
-**🤝 Contribuições no GitHub:**
-
-**[Nome do Repositório] - Em Breve.**
-
-**[Nome do Repositório] - Em Breve.**
-
-**[Nome do Repositório] - Em Breve.**
+- **Linguagens:** Python, Java, JavaScript, HTML5 e CSS3.
+- **Cloud:** AWS (EC2, S3, Lambda).
+- **Frameworks e Bibliotecas:** Angular, React e qualquer coisa que me ajude a criar coisas incríveis.
+- **Ferramentas:** VS Code, Git, GitHub e uma boa xícara de café.
 
 **📚 Aprendendo Atualmente:**
 
-**💻 AWS Re/Start - Escola da Nuvem**
-**💻 Desenvolvimento Frontend com Angular**
+- Desenvolvimento Back-End com Java.
+- Práticas de DevOps e implantação de aplicações na nuvem.
 
-**🤝 Colaboração e Feedback:**
+**🙏 Colaboração e Feedback:**
 
-**Estou sempre aberto a colaborações! Se você tem uma ideia maluca ou um projeto inovador, vamos conversar e transformar isso em realidade. feedback construtivo. Sinta-se à vontade para abrir uma issue ou fazer um pull request nos meus projetos.**
+Estou sempre aberto a colaborações! Se você tem uma ideia ou projeto inovador, vamos transformar isso em realidade. Feedbacks construtivos são sempre bem-vindos.
 
 **⚡ Curiosidades:**
 
-**Adoro resolver problemas de código enquanto escuto trilhas sonoras de filmes épicos ou ouço um bom Rock 'n' Roll 🎸**
+- Adoro resolver problemas enquanto escuto trilhas sonoras de filmes.
+- Sempre digo que o ponto e vírgula é apenas uma vírgula chique.
 
-**Sempre acreditei que o ponto e vírgula é apenas uma vírgula chique.**
+**🙌 Obrigado por Visitar!**
 
-**🙌 Obrigado por Visitar!:**
-
-**Agradeço por dedicar um tempo para conhecer um pouco sobre mim. Vamos nos conectar e colaborar em projetos interessantes! 👨‍💻✨**
-
+Agradeço por conhecer um pouco sobre mim. Vamos nos conectar e criar algo incrível! 👨‍💻✨
